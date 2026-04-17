@@ -2,3 +2,4 @@
 ISGD.zip
 ISGD
 clip_finetuned/model.safetensors
+.env
