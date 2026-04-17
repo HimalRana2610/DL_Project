@@ -1,0 +1,4 @@
+.venv
+ISGD.zip
+ISGD
+clip_finetuned/model.safetensors
